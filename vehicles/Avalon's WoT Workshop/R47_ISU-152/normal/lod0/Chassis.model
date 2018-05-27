@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.57134 -0.0143595 -3.37259</min>
+    <max>1.57134 1.13382 3.21309</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/R47_ISU-152/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
